@@ -1,0 +1,234 @@
+{
+  "products": {
+    "title": "Our Solutions",
+    "description": "Innovative robotic and laser solutions for modern industry",
+    "learnMore": "Learn More",
+    "viewDetails": "View Details",
+    "readMore": "Read More",
+    
+    "robotic-welding": {
+      "title": "Robotic Welding Stations",
+      "description": "Comprehensive automated solutions for welding using state-of-the-art industrial robots.",
+      "features": {
+        "0": "Fully automated welding",
+        "1": "High precision and repeatability",
+        "2": "Industrial robot integration",
+        "3": "Production process optimization",
+        "4": "Real-time quality monitoring"
+      },
+      "button": "Learn More"
+    },
+    
+    "robotic-grinding": {
+      "title": "Robotic Grinding Stations",
+      "description": "Automated systems for precise grinding and polishing with adaptive process control.",
+      "features": {
+        "0": "Automatic grinding and polishing",
+        "1": "Adaptive process control",
+        "2": "Advanced sensors",
+        "3": "Flexible programming",
+        "4": "High surface quality"
+      },
+      "button": "Learn More"
+    },
+    
+    "welding-lasers": {
+      "title": "Welding Lasers",
+      "description": "Cutting-edge laser technology for precise and efficient welding of various materials.",
+      "features": {
+        "0": "High-power laser welding",
+        "1": "Precise process control",
+        "2": "Minimal heat impact",
+        "3": "Multi-material welding",
+        "4": "High productivity"
+      },
+      "button": "Learn More"
+    },
+    
+    "cleaning-lasers": {
+      "title": "Cleaning Lasers",
+      "description": "Eco-friendly and efficient solution for surface cleaning using laser technology.",
+      "features": {
+        "0": "Eco-friendly surface cleaning",
+        "1": "No chemicals or abrasives",
+        "2": "Selective layer removal",
+        "3": "Gentle on base material",
+        "4": "High process efficiency"
+      },
+      "button": "Learn More"
+    },
+
+    "carport": {
+      "title": "Solar Carport",
+      "description": "Innovative parking solution with integrated solar power plant.",
+      "features": {
+        "0": "Integrated solar panels",
+        "1": "Modern design",
+        "2": "Vehicle protection",
+        "3": "EV charging",
+        "4": "Energy self-sufficiency"
+      },
+      "button": "Learn More"
+    }
+  },
+
+  "hero": {
+    "slide1": {
+      "title": "Innovative Industrial Solutions",
+      "description": "Cutting-edge technologies for manufacturing automation and robotization"
+    },
+    "slide2": {
+      "title": "Robotic and Laser Workstations",
+      "description": "Comprehensive solutions for modern industrial production"
+    },
+    "slide3": {
+      "title": "Eco-friendly Energy Solutions",
+      "description": "Solar carports for a sustainable future"
+    },
+    "cta": "Explore Solutions"
+  },
+
+  "nav": {
+    "about": "About",
+    "contact": "Contact",
+    "products": "Products",
+    "home": "Home",
+    "services": "Services",
+    "language": "Language"
+  },
+
+  "about": {
+    "title": "About Us",
+    "mainDescription": "Our technology company builds on more than 20 years of experience of a team of professionals in the manufacturing and supply of industrial robotic technologies. Although we are a new player in the market, we benefit from the rich knowledge and innovative approaches we have gained through dozens of projects across various industries. Thanks to this experience, collaboration with leading experts, and access to the latest technologies, we bring solutions to the market that meet the highest quality standards.",
+    "specializations": {
+      "title": "Our Specializations",
+      "roboticWelding": {
+        "title": "Robotic Welding Stations",
+        "description": "We offer standardized and custom solutions for all types of welding, including MIG/MAG, TIG, and laser technologies. Our workstations are designed for maximum efficiency and precision."
+      },
+      "roboticGrinding": {
+        "title": "Robotic Grinding and Surface Analysis",
+        "description": "We develop cutting-edge solutions for robotic grinding with integration of advanced post-processing, surface scanning, and subsequent processing."
+      },
+      "laserCleaning": {
+        "title": "Laser Cleaning and Machining",
+        "description": "We provide modern laser cleaning and machining technologies, primarily for metal materials, but also for a wide range of other surfaces."
+      },
+      "solarTech": {
+        "title": "Solar Technology and E-mobility",
+        "description": "We offer innovative solutions for carports, increasing solar panel efficiency, and advanced electronics for electric vehicle charging."
+      }
+    },
+    "whyUs": {
+      "title": "Why Choose Us",
+      "innovation": {
+        "title": "Innovation and Development",
+        "description": "We continuously push the boundaries of possibilities in robotics and laser technologies."
+      },
+      "customSolutions": {
+        "title": "Custom Solutions",
+        "description": "We tailor each project to specific customer needs and deliver technologies that exceed their expectations."
+      },
+      "partnership": {
+        "title": "Tailored Partnership",
+        "description": "We are with you every step of the way – from initial design to final installation and subsequent service. We offer a personal approach you can rely on."
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "Find out how our technologies can help you optimize production processes and increase the efficiency of your operations. We are ready to be your partner on the journey to modern manufacturing.",
+      "button": "Contact Us"
+    },
+    "readMore": "Read More",
+    "values": {
+      "title": "Our Values",
+      "innovation": {
+        "title": "Innovation",
+        "description": "We continuously push the boundaries of robotics and laser technology."
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "We deliver solutions that exceed customer expectations."
+      },
+      "partnership": {
+        "title": "Partnership",
+        "description": "We are with you every step of the way - from initial design to final installation and service."
+      }
+    }
+  },
+
+  "services": {
+    "title": "Our Services",
+    "description": "Comprehensive solutions for modern industry",
+    "engineering": {
+      "title": "Engineering",
+      "description": "Custom design and development of robotic and laser systems."
+    },
+    "installation": {
+      "title": "Installation",
+      "description": "Professional installation and integration of systems into your production."
+    },
+    "support": {
+      "title": "Support",
+      "description": "Continuous technical support and maintenance services."
+    }
+  },
+
+  "contact": {
+    "title": "Contact Us",
+    "description": "Interested in our services or need more information? Don't hesitate to contact us.",
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email"
+    },
+    "form": {
+      "title": "Write to Us",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully",
+      "error": "Error sending message"
+    },
+    "map": {
+      "title": "Find Us"
+    },
+    "general": {
+      "title": "General Contact"
+    },
+    "ceo": {
+      "title": "CEO",
+      "name": "Monika Kerešťanová"
+    },
+    "sales": {
+      "title": "Sales Department",
+      "name": "Tomáš Nádvorník"
+    },
+    "address": {
+      "title": "Address",
+      "text": "Chudenická 1059/30, Prague Hostivař, ZIP: 102 00, Czech Republic"
+    }
+  },
+
+  "footer": {
+    "copyright": " 2024 RTI Robotech Innovation. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "social": {
+      "facebook": "Follow us on Facebook",
+      "twitter": "Follow us on Twitter",
+      "linkedin": "Follow us on LinkedIn"
+    }
+  },
+
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous"
+  }
+}

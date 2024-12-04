@@ -1,0 +1,93 @@
+{
+  "robotic-welding": {
+    "hero": {
+      "title": "Roboter-Schweißanlagen",
+      "description": "RTI Robotech Innovation stellt Schweißanlagen her und liefert sie. Jede Arbeitsstation kann nach Ihren Anforderungen angepasst werden."
+    },
+    "technologies": {
+      "title": "Verfügbare Schweißtechnologien",
+      "types": {
+        "mig_mag": "MIG/MAG",
+        "tig": "WIG",
+        "laser": "LASER"
+      }
+    },
+    "technical": {
+      "title": "Technische Parameter der Schweißtechnologien",
+      "mig_mag": {
+        "title": "MIG/MAG Technische Parameter",
+        "params": [
+          "Schweißstrom: 30-400 A",
+          "Einschaltdauer 60%: 400 A",
+          "Einschaltdauer 100%: 310 A",
+          "Versorgungsspannung: 3x400 V",
+          "Absicherung: 32 A",
+          "Schutzart: IP 23",
+          "Drahtvorschubgeschwindigkeit: 0,5-25 m/min",
+          "Drahtdurchmesser: 0,6-1,6 mm",
+          "Brennerkühlung: Wasser"
+        ]
+      },
+      "tig": {
+        "title": "WIG Technische Parameter",
+        "params": [
+          "Schweißstrom: 3-350 A",
+          "Einschaltdauer 60%: 350 A",
+          "Einschaltdauer 100%: 300 A",
+          "Versorgungsspannung: 3x400 V",
+          "Absicherung: 25 A",
+          "Schutzart: IP 23",
+          "Elektrodendurchmesser: 1,0-4,0 mm",
+          "Drahtdurchmesser: 0,6-1,6 mm",
+          "Brennerkühlung: Wasser"
+        ]
+      },
+      "laser": {
+        "title": "LASER Technische Parameter",
+        "params": [
+          "Laserleistung: 2000 W",
+          "Wellenlänge: 1080 nm",
+          "Faserdurchmesser: 50 μm",
+          "Versorgungsspannung: 3x400 V",
+          "Absicherung: 32 A",
+          "Schutzart: IP 54",
+          "Drahtdurchmesser: 0,8-1,2 mm",
+          "Kühlung: Wasser",
+          "Kühlwasserverbrauch: 15 l/min"
+        ]
+      }
+    },
+    "features": {
+      "title": "Hauptmerkmale",
+      "arc_seam_tracking": {
+        "title": "Arc Seam Tracking",
+        "description": "Arc Seam Tracking für das Schweißen führt Messungen am Schweißlichtbogen durch und kompensiert den Pfad während des Schweißens. TAST verfolgt die Schweißnahtmitte durch oszillierende Bewegung. Der Abstand der Schweißelektrode wird durch Messung der Lichtbogenspannung ermittelt."
+      },
+      "touch_sensing": {
+        "title": "Touch Sensing",
+        "description": "Touch Sensing mit einem elektrischen Berührungssensor kann verschobene und gedrehte Produkte erkennen und kompensieren. Es können verschiedene Methoden zur Findung des Ausgangspunkts, 2D- und 3D-Verschiebungen und Rotationen auch für kreisförmige Löcher verwendet werden."
+      }
+    },
+    "series": {
+      "title": "Modellreihen",
+      "h_series": {
+        "name": "H",
+        "title": "H-Serie",
+        "description": "Roboter-Schweißanlage auf H-förmiger Stahlkonstruktion. Der Roboter ist in der Mitte positioniert und bedient zwei Arbeitsstationen. In einer Station schweißt der Roboter, während in der anderen Station der Bediener das fertige Schweißteil entnimmt und das nächste vorbereitet.",
+        "additionalInfo": "Die H-Roboter-Schweißanlage besteht aus zwei getrennten Arbeitsstationen. Jede Arbeitsstation verfügt über eigene Start- und Stopp-Bedienelemente für den Arbeitszyklus und eigene Sicherheitseinrichtungen. Zusätzlicher Schweißdraht kann von einer Spule oder Trommel zugeführt werden. Schweißstationslänge 3000 mm, Drehdurchmesser 1200 mm."
+      },
+      "e_series": {
+        "name": "E",
+        "title": "E-Serie",
+        "description": "Roboter-Schweißanlage auf E-förmiger Stahlkonstruktion. Der Roboter ist auf einer Schiene montiert, an einem Turm aufgehängt und bedient zwei Arbeitsstationen. In einer Station schweißt der Roboter, während in der anderen Station der Bediener das fertige Schweißteil entnimmt und das nächste vorbereitet. Stationslänge 2850 mm, Drehdurchmesser 1200 mm.",
+        "additionalInfo": "Durch einfaches Entfernen der mittleren Trennwand können die Arbeitsstationen zu einer langen 6200 mm Station verbunden werden. Die E-Roboter-Schweißanlage besteht aus zwei getrennten Arbeitsstationen. Jede Arbeitsstation verfügt über eigene Start- und Stopp-Bedienelemente für den Arbeitszyklus und eigene Sicherheitseinrichtungen. Zusätzlicher Schweißdraht kann von einer Spule oder Trommel zugeführt werden."
+      },
+      "t_series": {
+        "name": "T",
+        "title": "T-Serie",
+        "description": "Die T-Roboter-Schweißanlage steht auf einem Stahl-Schweißtisch. Der Roboter ist auf dem Tisch montiert. Der Tisch misst 1500 x 1000 mm mit 22 mm Löchern für die Verwendung von Standard-Schweißspannern.",
+        "additionalInfo": "Die T-Roboter-Schweißanlage verfügt über eigene Start- und Stopp-Bedienelemente für den Arbeitszyklus und eigene Sicherheitseinrichtungen. Zusätzlicher Schweißdraht kann von einer Spule oder Trommel zugeführt werden."
+      }
+    }
+  }
+}

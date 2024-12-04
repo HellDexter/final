@@ -1,0 +1,93 @@
+{
+  "robotic-welding": {
+    "hero": {
+      "title": "Robotic Welding Stations",
+      "description": "RTI Robotech Innovation manufactures and supplies welding stations. Each workstation can be customized according to your requirements."
+    },
+    "technologies": {
+      "title": "Available Welding Technologies",
+      "types": {
+        "mig_mag": "MIG/MAG",
+        "tig": "TIG",
+        "laser": "LASER"
+      }
+    },
+    "technical": {
+      "title": "Technical Parameters of Welding Technologies",
+      "mig_mag": {
+        "title": "MIG/MAG Technical Parameters",
+        "params": [
+          "Welding current: 30-400 A",
+          "Duty cycle 60%: 400 A",
+          "Duty cycle 100%: 310 A",
+          "Supply voltage: 3x400 V",
+          "Fuse: 32 A",
+          "Protection: IP 23",
+          "Wire feed speed: 0.5-25 m/min",
+          "Wire diameter: 0.6-1.6 mm",
+          "Torch cooling: water"
+        ]
+      },
+      "tig": {
+        "title": "TIG Technical Parameters",
+        "params": [
+          "Welding current: 3-350 A",
+          "Duty cycle 60%: 350 A",
+          "Duty cycle 100%: 300 A",
+          "Supply voltage: 3x400 V",
+          "Fuse: 25 A",
+          "Protection: IP 23",
+          "Electrode diameter: 1.0-4.0 mm",
+          "Wire diameter: 0.6-1.6 mm",
+          "Torch cooling: water"
+        ]
+      },
+      "laser": {
+        "title": "LASER Technical Parameters",
+        "params": [
+          "Laser power: 2000 W",
+          "Wavelength: 1080 nm",
+          "Fiber diameter: 50 μm",
+          "Supply voltage: 3x400 V",
+          "Fuse: 32 A",
+          "Protection: IP 54",
+          "Wire diameter: 0.8-1.2 mm",
+          "Cooling: water",
+          "Cooling water consumption: 15 l/min"
+        ]
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "arc_seam_tracking": {
+        "title": "Arc Seam Tracking",
+        "description": "Arc Seam Tracking for welding performs measurements on the welding arc and path compensation during welding. TAST tracks the weld center using oscillating motion. The welding electrode distance is measured using arc voltage measurement."
+      },
+      "touch_sensing": {
+        "title": "Touch Sensing",
+        "description": "Touch Sensing with an electric touch sensor can detect and compensate for shifted and rotated products. Several methods can be used for finding the initial point, 2D and 3D shifts and rotations, even for circular holes."
+      }
+    },
+    "series": {
+      "title": "Model Series",
+      "h_series": {
+        "name": "H",
+        "title": "H Series",
+        "description": "Robotic welding station on an H-shaped steel structure. The robot is positioned in the center and serves two workstations. In one station, the robot welds, while in the other station, the operator removes the finished weldment and prepares the next one.",
+        "additionalInfo": "The H robotic welding station consists of two separate workstations. Each workstation has its own start and stop controls for the work cycle and its own safety features. Additional welding wire can be fed from a coil or drum. Welding station length 3000 mm, turning diameter 1200 mm."
+      },
+      "e_series": {
+        "name": "E",
+        "title": "E Series",
+        "description": "Robotic welding station on an E-shaped steel structure. The robot is mounted on a track, suspended on a tower, and serves two workstations. In one station, the robot welds, while in the other station, the operator removes the finished weldment and prepares the next one. Station length is 2850 mm, turning diameter 1200 mm.",
+        "additionalInfo": "By easily removing the center partition, the workstations can be combined into one long 6200 mm station. The E robotic welding station consists of two separate workstations. Each workstation has its own start and stop controls for the work cycle and its own safety features. Additional welding wire can be fed from a coil or drum."
+      },
+      "t_series": {
+        "name": "T",
+        "title": "T Series",
+        "description": "The T robotic welding station is on a steel welding table. The robot is mounted on the table. The table measures 1500 x 1000 mm with 22 mm holes for using standard welding clamps.",
+        "additionalInfo": "The T robotic welding station has its own start and stop controls for the work cycle and its own safety features. Additional welding wire can be fed from a coil or drum."
+      }
+    }
+  }
+}

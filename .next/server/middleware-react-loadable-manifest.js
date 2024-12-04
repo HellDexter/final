@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"..\\\\components\\\\Products.js -> ./ProductSwiper\":{\"id\":\"..\\\\components\\\\Products.js -> ./ProductSwiper\",\"files\":[\"static/chunks/src_components_ProductSwiper_js.js\"]}}"

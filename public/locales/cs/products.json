@@ -1,0 +1,93 @@
+{
+  "robotic-welding": {
+    "hero": {
+      "title": "Robotická svařovací pracoviště",
+      "description": "Společnost RTI Robotech innovation vyrábí a dodává svařovací pracoviště. Každé pracoviště je možné sestavit podle vašich požadavků."
+    },
+    "technologies": {
+      "title": "Dostupné technologie svařování",
+      "types": {
+        "mig_mag": "MIG/MAG",
+        "tig": "TIG",
+        "laser": "LASER"
+      }
+    },
+    "technical": {
+      "title": "Technické parametry svařovacích technologií",
+      "mig_mag": {
+        "title": "Technické parametry MIG/MAG",
+        "params": [
+          "Svařovací proud: 30-400 A",
+          "Zatěžovatel 60%: 400 A",
+          "Zatěžovatel 100%: 310 A",
+          "Napájecí napětí: 3x400 V",
+          "Jištění: 32 A",
+          "Krytí: IP 23",
+          "Rychlost podávání drátu: 0,5-25 m/min",
+          "Průměr drátu: 0,6-1,6 mm",
+          "Chlazení hořáku: vodní"
+        ]
+      },
+      "tig": {
+        "title": "Technické parametry TIG",
+        "params": [
+          "Svařovací proud: 3-350 A",
+          "Zatěžovatel 60%: 350 A",
+          "Zatěžovatel 100%: 300 A",
+          "Napájecí napětí: 3x400 V",
+          "Jištění: 25 A",
+          "Krytí: IP 23",
+          "Průměr elektrody: 1,0-4,0 mm",
+          "Průměr drátu: 0,6-1,6 mm",
+          "Chlazení hořáku: vodní"
+        ]
+      },
+      "laser": {
+        "title": "Technické parametry LASER",
+        "params": [
+          "Výkon laseru: 2000 W",
+          "Vlnová délka: 1080 nm",
+          "Průměr vlákna: 50 μm",
+          "Napájecí napětí: 3x400 V",
+          "Jištění: 32 A",
+          "Krytí: IP 54",
+          "Průměr drátu: 0,8-1,2 mm",
+          "Chlazení: vodní",
+          "Spotřeba chladící vody: 15 l/min"
+        ]
+      }
+    },
+    "features": {
+      "title": "Klíčové vlastnosti",
+      "arc_seam_tracking": {
+        "title": "Arc Seam Tracking",
+        "description": "Sledování pomocí Arc Seam Tracking pro svařování provádí měření na svařovacím oblouku a kompenzaci dráhy během svařování. TAST sleduje střed sváru pomocí kývavého pohybu. Vzdálenost svařovací elektrody pomocí měření napětí na oblouku."
+      },
+      "touch_sensing": {
+        "title": "Touch Sensing",
+        "description": "Touch Sensing s elektrickým dotykovým senzorem může vyhledat kompenzovat posunuté a otočené výrobky. Je možné využít několik způsobů pro vyhledávání počátečního bodu, 2D a 3D posuny a rotace i pro kruhové otvory."
+      }
+    },
+    "series": {
+      "title": "Modelové řady",
+      "h_series": {
+        "name": "H",
+        "title": "Modelová řada H",
+        "description": "Robotické svařovací pracoviště na ocelové konstrukci ve tvaru písmene H. Robot je umístěn ve středu a obsluhuje dvě pracovní stanice. V jedné stanici robot svařuje, v druhé stanici obsluha vyndává hotový svařenec a připravuje další.",
+        "additionalInfo": "Robotické svařovací pracoviště H se skládá ze dvou oddělených pracovišť. Každé pracoviště má vlastní ovládací prvky start a stop pracovního cyklu a vlastní bezpečnostní prvky. Přídavný svařovací drát možné podávat z cívky, nebo ze sudu. Délka svařovací stanice 3000 mm, průměr protočení 1200 mm."
+      },
+      "e_series": {
+        "name": "E",
+        "title": "Modelová řada E",
+        "description": "Robotické svařovací pracoviště na ocelové konstrukci ve tvaru písmene E. Robot je umístěn na dráze, zavěšen na věži a obsluhuje dvě pracovní stanice. V jedné stanici robot svařuje, v druhé stanici obsluha vyndává hotový svařenec a připravuje další. Délka stanice je 2850 mm, průměr protočení 1200 mm.",
+        "additionalInfo": "Snadnou demontáží středové přepážky je možné spojit pracovní stanice v jednu dlouhou 6200 mm. Robotické svařovací pracoviště E se skládá ze dvou oddělených pracovišť. Každé pracoviště má vlastní ovládací prvky start a stop pracovního cyklu a vlastní bezpečnostní prvky. Přídavný svařovací drát možné podávat z cívky, nebo ze sudu."
+      },
+      "t_series": {
+        "name": "T",
+        "title": "Modelová řada T",
+        "description": "Robotické svařovací pracoviště T je na ocelovém svařovacím stole. Robot je umístěn na stole. Stůl je o rozměru 1500 x 1000 mm s otvory 22 mm pro použití standartních upínek pro svařování.",
+        "additionalInfo": "Robotické svařovací pracoviště T má vlastní ovládací prvky start a stop pracovního cyklu a vlastní bezpečnostní prvky. Přídavný svařovací drát možné podávat z cívky, nebo ze sudu."
+      }
+    }
+  }
+}

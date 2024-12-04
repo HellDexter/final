@@ -1,0 +1,218 @@
+{
+  "products": {
+    "title": "我们的解决方案",
+    "description": "现代工业的创新机器人和激光解决方案",
+    "learnMore": "了解更多",
+    "viewDetails": "查看详情",
+    "readMore": "阅读更多",
+    
+    "robotic-welding": {
+      "title": "机器人焊接工作站",
+      "description": "使用最先进的工业机器人的综合自动化焊接解决方案。",
+      "features": {
+        "0": "全自动焊接",
+        "1": "高精度和重复性",
+        "2": "工业机器人集成",
+        "3": "生产流程优化",
+        "4": "实时质量监控"
+      },
+      "button": "了解更多"
+    },
+    
+    "robotic-grinding": {
+      "title": "机器人打磨工作站",
+      "description": "具有自适应过程控制的精密打磨和抛光自动化系统。",
+      "features": {
+        "0": "自动打磨和抛光",
+        "1": "自适应过程控制",
+        "2": "先进的传感器",
+        "3": "灵活编程",
+        "4": "高表面质量"
+      },
+      "button": "了解更多"
+    },
+    
+    "welding-lasers": {
+      "title": "焊接激光器",
+      "description": "用于各种材料精密高效焊接的尖端激光技术。",
+      "features": {
+        "0": "高功率激光焊接",
+        "1": "精确过程控制",
+        "2": "最小热影响",
+        "3": "多材料焊接",
+        "4": "高生产效率"
+      },
+      "button": "了解更多"
+    },
+    
+    "cleaning-lasers": {
+      "title": "清洁激光器",
+      "description": "使用激光技术进行环保高效的表面清洁解决方案。",
+      "features": {
+        "0": "环保表面清洁",
+        "1": "无化学品或磨料",
+        "2": "选择性层移除",
+        "3": "对基材温和",
+        "4": "高过程效率"
+      },
+      "button": "了解更多"
+    },
+
+    "carport": {
+      "title": "太阳能车棚",
+      "description": "集成太阳能发电站的创新停车解决方案。",
+      "features": {
+        "0": "集成太阳能板",
+        "1": "现代设计",
+        "2": "车辆保护",
+        "3": "电动汽车充电",
+        "4": "能源自给自足"
+      },
+      "button": "了解更多"
+    }
+  },
+
+  "hero": {
+    "slide1": {
+      "title": "创新工业解决方案",
+      "description": "制造自动化和机器人化的尖端技术"
+    },
+    "slide2": {
+      "title": "机器人和激光工作站",
+      "description": "现代工业生产的综合解决方案"
+    },
+    "slide3": {
+      "title": "环保能源解决方案",
+      "description": "面向可持续未来的太阳能车棚"
+    },
+    "cta": "探索解决方案"
+  },
+
+  "nav": {
+    "about": "关于我们",
+    "contact": "联系我们",
+    "products": "产品",
+    "home": "首页",
+    "services": "服务",
+    "language": "语言"
+  },
+
+  "about": {
+    "title": "关于我们",
+    "mainDescription": "我们的技术公司建立在一支在工业机器人技术制造和供应领域拥有超过20年经验的专业团队基础之上。虽然我们是市场上的新玩家，但我们受益于通过在各个行业完成数十个项目所获得的丰富知识和创新方法。凭借这些经验、与领先专家的合作以及对最新技术的使用，我们为市场带来符合最高质量标准的解决方案。",
+    "specializations": {
+      "title": "我们的专业领域",
+      "roboticWelding": {
+        "title": "机器人焊接工作站",
+        "description": "我们为所有类型的焊接提供标准化和定制解决方案，包括MIG/MAG、TIG和激光技术。我们的工作站设计旨在实现最大效率和精确度。"
+      },
+      "roboticGrinding": {
+        "title": "机器人打磨和表面分析",
+        "description": "我们开发尖端的机器人打磨解决方案，集成先进的后处理、表面扫描和后续处理。"
+      },
+      "laserCleaning": {
+        "title": "激光清洗和加工",
+        "description": "我们提供现代激光清洗和加工技术，主要用于金属材料，同时也适用于各种其他表面。"
+      },
+      "solarTech": {
+        "title": "太阳能技术和电动汽车",
+        "description": "我们为车棚提供创新解决方案，提高太阳能板效率，并提供先进的电动汽车充电电子设备。"
+      }
+    },
+    "whyUs": {
+      "title": "为什么选择我们",
+      "innovation": {
+        "title": "创新与发展",
+        "description": "我们不断推动机器人和激光技术领域的可能性边界。"
+      },
+      "customSolutions": {
+        "title": "定制解决方案",
+        "description": "我们根据客户的具体需求定制每个项目，提供超出其期望的技术。"
+      },
+      "partnership": {
+        "title": "量身定制的合作关系",
+        "description": "我们全程陪伴您 - 从初始设计到最终安装和后续服务。我们提供您可以信赖的个性化方法。"
+      }
+    },
+    "contact": {
+      "title": "联系我们",
+      "description": "了解我们的技术如何帮助您优化生产流程并提高运营效率。我们随时准备成为您迈向现代化制造的合作伙伴。",
+      "button": "联系我们"
+    }
+  },
+
+  "contact": {
+    "title": "联系我们",
+    "description": "对我们的服务感兴趣或需要更多信息？请随时联系我们。",
+    "info": {
+      "address": "地址",
+      "phone": "电话",
+      "email": "电子邮件"
+    },
+    "form": {
+      "title": "给我们留言",
+      "name": "姓名",
+      "email": "电子邮件",
+      "message": "留言",
+      "submit": "发送留言",
+      "success": "留言发送成功",
+      "error": "发送留言时出错"
+    },
+    "map": {
+      "title": "查找我们"
+    },
+    "general": {
+      "title": "一般联系"
+    },
+    "ceo": {
+      "title": "首席执行官",
+      "name": "Monika Kerešťanová"
+    },
+    "sales": {
+      "title": "销售部",
+      "name": "Tomáš Nádvorník"
+    },
+    "address": {
+      "title": "地址",
+      "text": "Chudenická 1059/30, 布拉格 Hostivař, 邮编: 102 00, 捷克共和国"
+    }
+  },
+
+  "services": {
+    "title": "我们的服务",
+    "description": "现代工业的综合解决方案",
+    "engineering": {
+      "title": "工程设计",
+      "description": "机器人和激光系统的定制设计与开发。"
+    },
+    "installation": {
+      "title": "安装服务",
+      "description": "系统的专业安装和生产线集成。"
+    },
+    "support": {
+      "title": "技术支持",
+      "description": "全天候技术支持和服务。"
+    }
+  },
+
+  "footer": {
+    "copyright": " 2024 RTI Robotech Innovation。保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "social": {
+      "facebook": "在Facebook上关注我们",
+      "twitter": "在Twitter上关注我们",
+      "linkedin": "在LinkedIn上关注我们"
+    }
+  },
+
+  "common": {
+    "loading": "加载中...",
+    "error": "发生错误",
+    "success": "成功",
+    "close": "关闭",
+    "back": "返回",
+    "next": "下一步",
+    "previous": "上一步"
+  }
+}

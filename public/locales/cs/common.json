@@ -1,0 +1,218 @@
+{
+  "products": {
+    "title": "Naše Řešení",
+    "description": "Inovativní robotická a laserová řešení pro moderní průmysl",
+    "learnMore": "Více informací",
+    "viewDetails": "Zobrazit detail",
+    "readMore": "Číst více",
+    
+    "robotic-welding": {
+      "title": "Robotická svařovací pracoviště",
+      "description": "Komplexní automatizovaná řešení pro svařování s využitím nejmodernějších průmyslových robotů.",
+      "features": {
+        "0": "Plně automatizované svařování",
+        "1": "Vysoká přesnost a opakovatelnost",
+        "2": "Integrace s průmyslovými roboty",
+        "3": "Optimalizace výrobních procesů",
+        "4": "Monitoring kvality v reálném čase"
+      },
+      "button": "Zjistit více"
+    },
+    
+    "robotic-grinding": {
+      "title": "Robotické brousící pracoviště",
+      "description": "Automatizované systémy pro přesné broušení a leštění s adaptivním řízením procesu.",
+      "features": {
+        "0": "Automatické broušení a leštění",
+        "1": "Adaptivní řízení procesu",
+        "2": "Pokročilá senzorika",
+        "3": "Flexibilní programování",
+        "4": "Vysoká kvalita povrchu"
+      },
+      "button": "Zjistit více"
+    },
+    
+    "welding-lasers": {
+      "title": "Svařovací lasery",
+      "description": "Špičkové laserové technologie pro přesné a efektivní svařování různých materiálů.",
+      "features": {
+        "0": "Vysokovýkonné laserové svařování",
+        "1": "Přesné řízení procesu",
+        "2": "Minimální tepelné ovlivnění",
+        "3": "Svařování různých materiálů",
+        "4": "Vysoká produktivita"
+      },
+      "button": "Zjistit více"
+    },
+    
+    "cleaning-lasers": {
+      "title": "Čisticí lasery",
+      "description": "Ekologické a efektivní řešení pro čištění povrchů pomocí laserové technologie.",
+      "features": {
+        "0": "Ekologické čištění povrchů",
+        "1": "Bez chemikálií a abraziv",
+        "2": "Selektivní odstranění vrstev",
+        "3": "Šetrné k základnímu materiálu",
+        "4": "Vysoká efektivita procesu"
+      },
+      "button": "Zjistit více"
+    },
+
+    "carport": {
+      "title": "Solární Carport",
+      "description": "Inovativní řešení pro parkování s integrovanou solární elektrárnou.",
+      "features": {
+        "0": "Integrované solární panely",
+        "1": "Moderní design",
+        "2": "Ochrana vozidel",
+        "3": "Dobíjení elektromobilů",
+        "4": "Energetická soběstačnost"
+      },
+      "button": "Zjistit více"
+    }
+  },
+
+  "services": {
+    "title": "Naše služby",
+    "description": "Komplexní řešení pro moderní průmysl",
+    "engineering": {
+      "title": "Inženýring",
+      "description": "Zakázkový návrh a vývoj robotických a laserových systémů."
+    },
+    "installation": {
+      "title": "Instalace",
+      "description": "Profesionální instalace a integrace systémů do vaší výroby."
+    },
+    "support": {
+      "title": "Podpora",
+      "description": "Nepřetržitá technická podpora a servisní služby."
+    }
+  },
+
+  "hero": {
+    "slide1": {
+      "title": "Inovativní Průmyslová Řešení",
+      "description": "Špičkové technologie pro automatizaci a robotizaci výroby"
+    },
+    "slide2": {
+      "title": "Robotická a Laserová Pracoviště",
+      "description": "Komplexní řešení pro moderní průmyslovou výrobu"
+    },
+    "slide3": {
+      "title": "Ekologická Energetická Řešení",
+      "description": "Solární carporty pro udržitelnou budoucnost"
+    },
+    "cta": "Prozkoumat řešení"
+  },
+
+  "nav": {
+    "about": "O nás",
+    "contact": "Kontakt",
+    "products": "Produkty",
+    "home": "Domů",
+    "services": "Služby",
+    "language": "Jazyk"
+  },
+
+  "about": {
+    "title": "O nás",
+    "mainDescription": "Naše technologická společnost staví na více než 20 letech zkušeností týmu profesionálů v oblasti výroby a dodávek průmyslových robotických technologií. Přestože jsme na trhu novým hráčem, těžíme z bohatých znalostí a inovativních přístupů, které jsme získali při realizaci desítek projektů napříč různými odvětvími. Díky těmto zkušenostem, spolupráci s předními odborníky a přístupu k nejmodernějším technologiím přinášíme na trh řešení splňující nejvyšší standardy kvality.",
+    "specializations": {
+      "title": "Naše specializace",
+      "roboticWelding": {
+        "title": "Robotická svařovací pracoviště",
+        "description": "Nabízíme standardizovaná i zakázková řešení pro všechny typy svařování, včetně MIG/MAG, TIG a laserových technologií. Naše pracoviště jsou navržena pro maximální efektivitu a preciznost."
+      },
+      "roboticGrinding": {
+        "title": "Robotické broušení a povrchová analýza",
+        "description": "Vyvíjíme špičková řešení pro robotické broušení s integrací pokročilého post-processingu, skenování povrchů a následného zpracování."
+      },
+      "laserCleaning": {
+        "title": "Laserové čištění a obrábění",
+        "description": "Poskytujeme moderní technologie laserového čištění a obrábění, především pro kovové materiály, ale také pro širokou škálu dalších povrchů."
+      },
+      "solarTech": {
+        "title": "Solární technologie a elektromobilita",
+        "description": "Nabízíme inovativní řešení pro carporty, zvyšování efektivity solárních panelů a pokročilou elektroniku pro nabíjení elektromobilů."
+      }
+    },
+    "whyUs": {
+      "title": "Proč si vybrat právě nás",
+      "innovation": {
+        "title": "Inovace a vývoj",
+        "description": "Neustále posouváme hranice možností v oblasti robotiky a laserových technologií."
+      },
+      "customSolutions": {
+        "title": "Zakázková řešení",
+        "description": "Každý projekt přizpůsobujeme na míru konkrétním potřebám zákazníků a dodáváme technologie, které překračují jejich očekávání."
+      },
+      "partnership": {
+        "title": "Partnerství na míru",
+        "description": "Jsme s vámi na každém kroku – od prvotního návrhu až po finální instalaci a následný servis. Nabízíme osobní přístup, na který se můžete spolehnout."
+      }
+    },
+    "contact": {
+      "title": "Kontaktujte nás",
+      "description": "Zjistěte, jak vám naše technologie mohou pomoci optimalizovat výrobní procesy a zvýšit efektivitu vašeho provozu. Jsme připraveni být vaším partnerem na cestě k moderní výrobě.",
+      "button": "Kontaktujte nás"
+    }
+  },
+
+  "contact": {
+    "title": "Kontaktujte nás",
+    "description": "Máte zájem o naše služby nebo potřebujete více informací? Neváhejte nás kontaktovat.",
+    "info": {
+      "address": "Adresa",
+      "phone": "Telefon",
+      "email": "E-mail"
+    },
+    "form": {
+      "title": "Napište nám",
+      "name": "Jméno",
+      "email": "E-mail",
+      "message": "Zpráva",
+      "submit": "Odeslat zprávu",
+      "success": "Zpráva byla úspěšně odeslána",
+      "error": "Při odesílání zprávy došlo k chybě"
+    },
+    "map": {
+      "title": "Kde nás najdete"
+    },
+    "general": {
+      "title": "Obecný kontakt"
+    },
+    "ceo": {
+      "title": "Jednatelka",
+      "name": "Monika Kerešťanová"
+    },
+    "sales": {
+      "title": "Obchodní oddělení",
+      "name": "Tomáš Nádvorník"
+    },
+    "address": {
+      "title": "Adresa",
+      "text": "Chudenická 1059/30, Praha Hostivař, psč: 102 00, Česká republika"
+    }
+  },
+
+  "footer": {
+    "copyright": " 2024 RTI Robotech Innovation. Všechna práva vyhrazena.",
+    "privacy": "Ochrana soukromí",
+    "terms": "Obchodní podmínky",
+    "social": {
+      "facebook": "Sledujte nás na Facebooku",
+      "twitter": "Sledujte nás na Twitteru",
+      "linkedin": "Sledujte nás na LinkedIn"
+    }
+  },
+
+  "common": {
+    "loading": "Načítání...",
+    "error": "Došlo k chybě",
+    "success": "Úspěch",
+    "close": "Zavřít",
+    "back": "Zpět",
+    "next": "Další",
+    "previous": "Předchozí"
+  }
+}

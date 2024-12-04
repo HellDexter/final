@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/products/robotic-welding": "pages/products/robotic-welding.js",
+  "/products/cleaning-lasers": "pages/products/cleaning-lasers.js",
+  "/products/welding-lasers": "pages/products/welding-lasers.js"
+}

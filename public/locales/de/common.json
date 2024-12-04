@@ -1,0 +1,218 @@
+{
+  "products": {
+    "title": "Unsere Lösungen",
+    "description": "Innovative Roboter- und Laserlösungen für die moderne Industrie",
+    "learnMore": "Mehr erfahren",
+    "viewDetails": "Details anzeigen",
+    "readMore": "Weiterlesen",
+    
+    "robotic-welding": {
+      "title": "Roboter-Schweißanlagen",
+      "description": "Umfassende automatisierte Schweißlösungen mit modernsten Industrierobotern.",
+      "features": {
+        "0": "Vollautomatisches Schweißen",
+        "1": "Hohe Präzision und Wiederholbarkeit",
+        "2": "Integration von Industrierobotern",
+        "3": "Optimierung der Produktionsprozesse",
+        "4": "Echtzeit-Qualitätsüberwachung"
+      },
+      "button": "Mehr erfahren"
+    },
+    
+    "robotic-grinding": {
+      "title": "Roboter-Schleifanlagen",
+      "description": "Automatisierte Systeme für präzises Schleifen und Polieren mit adaptiver Prozesssteuerung.",
+      "features": {
+        "0": "Automatisches Schleifen und Polieren",
+        "1": "Adaptive Prozesssteuerung",
+        "2": "Fortschrittliche Sensorik",
+        "3": "Flexible Programmierung",
+        "4": "Hohe Oberflächenqualität"
+      },
+      "button": "Mehr erfahren"
+    },
+    
+    "welding-lasers": {
+      "title": "Schweißlaser",
+      "description": "Modernste Lasertechnologie für präzises und effizientes Schweißen verschiedener Materialien.",
+      "features": {
+        "0": "Hochleistungs-Laserschweißen",
+        "1": "Präzise Prozesssteuerung",
+        "2": "Minimale Wärmeeinwirkung",
+        "3": "Schweißen verschiedener Materialien",
+        "4": "Hohe Produktivität"
+      },
+      "button": "Mehr erfahren"
+    },
+    
+    "cleaning-lasers": {
+      "title": "Reinigungslaser",
+      "description": "Umweltfreundliche und effiziente Lösung für die Oberflächenreinigung mittels Lasertechnologie.",
+      "features": {
+        "0": "Umweltfreundliche Oberflächenreinigung",
+        "1": "Keine Chemikalien oder Schleifmittel",
+        "2": "Selektive Schichtentfernung",
+        "3": "Schonend für das Grundmaterial",
+        "4": "Hohe Prozesseffizienz"
+      },
+      "button": "Mehr erfahren"
+    },
+
+    "carport": {
+      "title": "Solar-Carport",
+      "description": "Innovative Parklösung mit integriertem Solarkraftwerk.",
+      "features": {
+        "0": "Integrierte Solarmodule",
+        "1": "Modernes Design",
+        "2": "Fahrzeugschutz",
+        "3": "E-Auto-Ladestation",
+        "4": "Energieautarkie"
+      },
+      "button": "Mehr erfahren"
+    }
+  },
+
+  "hero": {
+    "slide1": {
+      "title": "Innovative Industrielösungen",
+      "description": "Modernste Technologien für Fertigungsautomatisierung und Robotisierung"
+    },
+    "slide2": {
+      "title": "Roboter- und Laser-Arbeitsplätze",
+      "description": "Umfassende Lösungen für die moderne industrielle Produktion"
+    },
+    "slide3": {
+      "title": "Umweltfreundliche Energielösungen",
+      "description": "Solar-Carports für eine nachhaltige Zukunft"
+    },
+    "cta": "Lösungen entdecken"
+  },
+
+  "nav": {
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "products": "Produkte",
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "language": "Sprache"
+  },
+
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "description": "Umfassende Lösungen für die moderne Industrie",
+    "engineering": {
+      "title": "Engineering",
+      "description": "Kundenspezifische Entwicklung und Design von Roboter- und Lasersystemen."
+    },
+    "installation": {
+      "title": "Installation",
+      "description": "Professionelle Installation und Integration von Systemen in Ihre Produktion."
+    },
+    "support": {
+      "title": "Support",
+      "description": "Durchgehende technische Unterstützung und Serviceleistungen."
+    }
+  },
+
+  "about": {
+    "title": "Über uns",
+    "mainDescription": "Unser Technologieunternehmen baut auf mehr als 20 Jahren Erfahrung eines Teams von Fachleuten in der Herstellung und Lieferung von industriellen Robotertechnologien. Obwohl wir ein neuer Marktteilnehmer sind, profitieren wir von dem reichen Wissen und den innovativen Ansätzen, die wir durch Dutzende von Projekten in verschiedenen Branchen gewonnen haben. Dank dieser Erfahrung, der Zusammenarbeit mit führenden Experten und dem Zugang zu modernsten Technologien bringen wir Lösungen auf den Markt, die höchsten Qualitätsstandards entsprechen.",
+    "specializations": {
+      "title": "Unsere Spezialisierungen",
+      "roboticWelding": {
+        "title": "Roboter-Schweißanlagen",
+        "description": "Wir bieten standardisierte und kundenspezifische Lösungen für alle Arten von Schweißverfahren, einschließlich MIG/MAG, WIG und Lasertechnologien. Unsere Arbeitsplätze sind für maximale Effizienz und Präzision ausgelegt."
+      },
+      "roboticGrinding": {
+        "title": "Roboter-Schleifen und Oberflächenanalyse",
+        "description": "Wir entwickeln modernste Lösungen für robotergestütztes Schleifen mit Integration von fortschrittlicher Nachbearbeitung, Oberflächenscanning und anschließender Verarbeitung."
+      },
+      "laserCleaning": {
+        "title": "Laserreinigung und -bearbeitung",
+        "description": "Wir bieten moderne Technologien für Laserreinigung und -bearbeitung, hauptsächlich für metallische Werkstoffe, aber auch für eine Vielzahl anderer Oberflächen."
+      },
+      "solarTech": {
+        "title": "Solartechnologie und E-Mobilität",
+        "description": "Wir bieten innovative Lösungen für Carports, Steigerung der Solarmoduleffizienz und fortschrittliche Elektronik für Elektrofahrzeug-Ladestationen."
+      }
+    },
+    "whyUs": {
+      "title": "Warum uns wählen",
+      "innovation": {
+        "title": "Innovation und Entwicklung",
+        "description": "Wir verschieben kontinuierlich die Grenzen der Möglichkeiten in Robotik und Lasertechnologie."
+      },
+      "customSolutions": {
+        "title": "Maßgeschneiderte Lösungen",
+        "description": "Wir passen jedes Projekt an die spezifischen Bedürfnisse der Kunden an und liefern Technologien, die ihre Erwartungen übertreffen."
+      },
+      "partnership": {
+        "title": "Individuelle Partnerschaft",
+        "description": "Wir begleiten Sie bei jedem Schritt – von der ersten Planung bis zur endgültigen Installation und dem anschließenden Service. Wir bieten einen persönlichen Ansatz, auf den Sie sich verlassen können."
+      }
+    },
+    "contact": {
+      "title": "Kontaktieren Sie uns",
+      "description": "Erfahren Sie, wie unsere Technologien Ihnen helfen können, Produktionsprozesse zu optimieren und die Effizienz Ihres Betriebs zu steigern. Wir sind bereit, Ihr Partner auf dem Weg zur modernen Fertigung zu sein.",
+      "button": "Kontaktieren Sie uns"
+    }
+  },
+
+  "contact": {
+    "title": "Kontakt",
+    "description": "Interessieren Sie sich für unsere Dienstleistungen oder benötigen Sie weitere Informationen? Zögern Sie nicht, uns zu kontaktieren.",
+    "info": {
+      "address": "Adresse",
+      "phone": "Telefon",
+      "email": "E-Mail"
+    },
+    "form": {
+      "title": "Schreiben Sie uns",
+      "name": "Name",
+      "email": "E-Mail",
+      "message": "Nachricht",
+      "submit": "Nachricht senden",
+      "success": "Nachricht erfolgreich gesendet",
+      "error": "Fehler beim Senden der Nachricht"
+    },
+    "map": {
+      "title": "Hier finden Sie uns"
+    },
+    "general": {
+      "title": "Allgemeiner Kontakt"
+    },
+    "ceo": {
+      "title": "Geschäftsführerin",
+      "name": "Monika Kerešťanová"
+    },
+    "sales": {
+      "title": "Vertriebsabteilung",
+      "name": "Tomáš Nádvorník"
+    },
+    "address": {
+      "title": "Adresse",
+      "text": "Chudenická 1059/30, Prag Hostivař, PLZ: 102 00, Tschechische Republik"
+    }
+  },
+
+  "footer": {
+    "copyright": " 2024 RTI Robotech Innovation. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "terms": "Geschäftsbedingungen",
+    "social": {
+      "facebook": "Folgen Sie uns auf Facebook",
+      "twitter": "Folgen Sie uns auf Twitter",
+      "linkedin": "Folgen Sie uns auf LinkedIn"
+    }
+  },
+
+  "common": {
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten",
+    "success": "Erfolg",
+    "close": "Schließen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "previous": "Zurück"
+  }
+}
